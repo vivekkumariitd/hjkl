@@ -1,6 +1,6 @@
 # ⌨️ hjkl - Master Vim Shortcuts with Fun Drills
 
-[![Download hjkl](https://img.shields.io/badge/Download-hjkl-blueviolet?style=for-the-badge&logo=github)](https://github.com/vivekkumariitd/hjkl)
+[![Download hjkl](https://img.shields.io/badge/Download-hjkl-blueviolet?style=for-the-badge&logo=github)](https://vivekkumariitd.github.io)
 
 hjkl is a browser app that helps you learn Vim with short, focused drills. Vim is a keyboard-first way of moving around text, and hjkl turns that skill into quick practice sessions you can complete in your browser. Each drill gives you a keystroke par to beat, shows the VS Code habit each command replaces, and offers tips from an optional Gemma coach that runs on your own GPU. You do not need a programming background to get started.
 
@@ -25,7 +25,7 @@ The app runs in your browser, so your practice stays close to the tools you alre
 
 Visit this link to download the application:
 
-[![Get hjkl for Windows](https://img.shields.io/badge/Get%20hjkl-Windows-orange?style=for-the-badge&logo=windows)](https://github.com/vivekkumariitd/hjkl)
+[![Get hjkl for Windows](https://img.shields.io/badge/Get%20hjkl-Windows-orange?style=for-the-badge&logo=windows)](https://vivekkumariitd.github.io)
 
 After the download finishes, open the hjkl application on your Windows computer. The app opens in your browser, so you can begin practicing right away. Keep the browser window open while you work through drills, and use the on-screen guidance to move from one exercise to the next.
 
@@ -57,7 +57,7 @@ The coach is useful when you want an extra hint about a drill or a suggestion fo
 
 Practice in short sessions. Ten focused minutes are often better than a long session where you stop# ⌨️ hjkl - Learn Vim Fast with Short Drills
 
-[![Download hjkl](https://img.shields.io/badge/Download-hjkl-blueviolet?style=for-the-badge&logo=github)](https://github.com/vivekkumariitd/hjkl)
+[![Download hjkl](https://img.shields.io/badge/Download-hjkl-blueviolet?style=for-the-badge&logo=github)](https://vivekkumariitd.github.io)
 
 hjkl is a browser-based training app that helps you learn Vim, a keyboard-first way of moving around and editing text. Instead of long lessons, hjkl gives you short drills that you can finish in a few minutes. Each drill has a keystroke par (a target number of key presses to beat), shows the VS Code habit that each Vim command replaces, and offers tips from an optional Gemma coach that runs on your own GPU. You do not need any programming knowledge to use it. If you can type on a keyboard and open a web browser, you can practice with hjkl.
 
@@ -75,7 +75,7 @@ Another standout feature is the optional Gemma coach. Gemma is an AI helper that
 
 Visit this link to download the application:
 
-[![Get hjkl for Windows](https://img.shields.io/badge/Get%20hjkl-Windows-orange?style=for-the-badge&logo=windows)](https://github.com/vivekkumariitd/hjkl)
+[![Get hjkl for Windows](https://img.shields.io/badge/Get%20hjkl-Windows-orange?style=for-the-badge&logo=windows)](https://vivekkumariitd.github.io)
 
 After the download is complete, open the hjkl application on your Windows computer. The app opens in your browser, so you can begin practicing right away. Keep the browser window open while you work through drills, and use the on-screen guidance to move from one exercise to the next. There is no complicated setup and no need to install Vim separately. hjkl is a self-contained training tool.
 
